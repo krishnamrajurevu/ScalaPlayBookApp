@@ -1,0 +1,12 @@
+@(books : Set[String])
+@layout("All Books"){
+
+    <h3>List of books available</h3>
+    <ul>
+        @for(book <- books){
+            <li>@book</li>
+        }
+    </ul>
+
+
+}
