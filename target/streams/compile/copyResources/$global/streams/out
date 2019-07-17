@@ -1,5 +1,5 @@
 [0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
-[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\krevu\Downloads\ScalaBookApp\conf\application.conf,C:\Users\krevu\Downloads\ScalaBookApp\target\scala-2.13\classes\application.conf)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\krevu\Downloads\ScalaBookApp\conf\logback.xml,C:\Users\krevu\Downloads\ScalaBookApp\target\scala-2.13\classes\logback.xml)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\krevu\Downloads\ScalaBookApp\conf\messages,C:\Users\krevu\Downloads\ScalaBookApp\target\scala-2.13\classes\messages)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\krevu\Downloads\ScalaBookApp\conf\routes,C:\Users\krevu\Downloads\ScalaBookApp\target\scala-2.13\classes\routes)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\krevu\Projects\ScalaPlayBookApp\conf\application.conf,C:\Users\krevu\Projects\ScalaPlayBookApp\target\scala-2.12\classes\application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\krevu\Projects\ScalaPlayBookApp\conf\logback.xml,C:\Users\krevu\Projects\ScalaPlayBookApp\target\scala-2.12\classes\logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\krevu\Projects\ScalaPlayBookApp\conf\messages,C:\Users\krevu\Projects\ScalaPlayBookApp\target\scala-2.12\classes\messages)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\krevu\Projects\ScalaPlayBookApp\conf\routes,C:\Users\krevu\Projects\ScalaPlayBookApp\target\scala-2.12\classes\routes)[0m

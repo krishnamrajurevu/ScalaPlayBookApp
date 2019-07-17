@@ -9,7 +9,7 @@ import models.Book
 class BooksController @Inject()(cc: ControllerComponents) extends AbstractController(cc) {
 
   def index= Action {
-    var books : Set[String] = Set("ABC","DEF","XYZ")
+    var books=Set("AAA","BBB")
     Ok(views.html.books.index(books))
   }
 

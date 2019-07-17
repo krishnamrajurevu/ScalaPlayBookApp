@@ -6,7 +6,7 @@
         <entry key="root">
           <value>
             <ProjectSettingsEntry>
-              <option name="confDir" value="C:\Users\krevu\Downloads\ScalaBookApp\app" />
+              <option name="confDir" value="C:\Users\krevu\Projects\ScalaPlayBookApp\app" />
               <option name="templateImports">
                 <list>
                   <option value="_root_.play.twirl.api.TwirlFeatureImports._" />
@@ -29,14 +29,14 @@
                   <option value="controllers.Assets.Asset" />
                 </list>
               </option>
-              <option name="uri" value="/C:/Users/krevu/Downloads/ScalaBookApp" />
+              <option name="uri" value="/C:/Users/krevu/Projects/ScalaPlayBookApp" />
             </ProjectSettingsEntry>
           </value>
         </entry>
-        <entry key="scalabookapp_3485">
+        <entry key="scalaplaybookapp_198">
           <value>
             <ProjectSettingsEntry>
-              <option name="playDistrPath" value="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.13/jars/play_2.13-2.7.3.jar" />
+              <option name="playDistrPath" value="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.6.12.jar" />
             </ProjectSettingsEntry>
           </value>
         </entry>

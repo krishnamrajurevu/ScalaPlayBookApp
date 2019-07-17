@@ -1,16 +1,7 @@
-[0m[[0m[31merror[0m] [0m[0mC:\Users\krevu\Downloads\ScalaBookApp\app\views\books\index.scala.html:5:52: value id is not a member of models.Book[0m
-[0m[[0m[31merror[0m] [0m[0m        <a href="@routes.BooksController.show(book.id)">@book.title</a>[0m
-[0m[[0m[31merror[0m] [0m[0m                                                   ^[0m
-[0m[[0m[31merror[0m] [0m[0mC:\Users\krevu\Downloads\ScalaBookApp\app\views\books\index.scala.html:5:63: value title is not a member of models.Book[0m
-[0m[[0m[31merror[0m] [0m[0m        <a href="@routes.BooksController.show(book.id)">@book.title</a>[0m
-[0m[[0m[31merror[0m] [0m[0m                                                              ^[0m
-[0m[[0m[31merror[0m] [0m[0mC:\Users\krevu\Downloads\ScalaBookApp\app\views\books\index.scala.html:6:23: value id is not a member of models.Book[0m
-[0m[[0m[31merror[0m] [0m[0m        <p>Id : @book.id</p>[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\krevu\Projects\ScalaPlayBookApp\app\models\Book.scala:18:23: value asInstanceOf is not a member of object io.ebean.Finder[0m
+[0m[[0m[31merror[0m] [0m[0mNote that Finder extends Any, not AnyRef.[0m
+[0m[[0m[31merror[0m] [0m[0mSuch types can participate in value classes, but instances[0m
+[0m[[0m[31merror[0m] [0m[0mcannot appear in singleton types or in reference comparisons.[0m
+[0m[[0m[31merror[0m] [0m[0m  var finder = Finder.asInstanceOf[Int,Book];[0m
 [0m[[0m[31merror[0m] [0m[0m                      ^[0m
-[0m[[0m[31merror[0m] [0m[0mC:\Users\krevu\Downloads\ScalaBookApp\app\views\books\index.scala.html:7:26: value price is not a member of models.Book[0m
-[0m[[0m[31merror[0m] [0m[0m        <p>Price : @book.price</p>[0m
-[0m[[0m[31merror[0m] [0m[0m                         ^[0m
-[0m[[0m[31merror[0m] [0m[0mC:\Users\krevu\Downloads\ScalaBookApp\app\views\books\index.scala.html:8:27: value author is not a member of models.Book[0m
-[0m[[0m[31merror[0m] [0m[0m        <p>Author : @book.author</p>[0m
-[0m[[0m[31merror[0m] [0m[0m                          ^[0m
-[0m[[0m[31merror[0m] [0m[0m5 errors found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
